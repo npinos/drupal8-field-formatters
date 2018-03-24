@@ -1,7 +1,0 @@
-name: Mule Formatters
-type: module
-description: Defines mule custom formatters.
-core: 8.x
-package: Mulesoft custom
-dependencies:
-  - field

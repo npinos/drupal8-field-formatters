@@ -1,0 +1,7 @@
+name: Drupal 8 field formatters
+type: module
+description: Example module for creating custom field formatters in Drupal 8.
+core: 8.x
+package: Example modules
+dependencies:
+  - field
